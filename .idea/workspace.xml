@@ -2,54 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da800f4b-c39a-4d3c-9228-04ce95e7a661" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/ThreeSixZero/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/ThreeSixZero/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/jingdong/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/jingdong/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/jingdong/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/jingdong/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/jingdong/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/kuaishou/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/kuaishou/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/kuaishou/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/kuaishou/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/pin/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/pin/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/pin/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/pin/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/pin/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/pin/Main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/pin/Main8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/settest/DOInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/settest/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/settest/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/settest/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/FullSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/ReverseListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution504.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution506.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution508.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/test/JVMTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/acm/niuke/FullSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution513.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ydh/tencent/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/tencent/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ydh/tencent/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/tencent/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ydh/tencent/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/tencent/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ydh/tencent/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/tencent/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ydh/tencent/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/tencent/Main5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ydh/tencent/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/tencent/Main6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ydh/tencent/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ydh/code/tencent/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ydh/tencent/Main1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ydh/tencent/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ydh/tencent/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ydh/tencent/Main4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ydh/tencent/Main5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ydh/tencent/Main6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ydh/tencent/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ydh/thread/AllSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ydh/thread/AllSort.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -93,16 +49,16 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="go" value="1" />
-          <entry key="java" value="404" />
+          <entry key="go" value="3" />
+          <entry key="java" value="407" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="Go" value="1" />
-          <entry key="JAVA" value="404" />
+          <entry key="Go" value="3" />
+          <entry key="JAVA" value="407" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
@@ -110,15 +66,15 @@
         <counts>
           <entry key="dummy" value="12" />
           <entry key="ft" value="70" />
-          <entry key="go" value="177" />
-          <entry key="java" value="156631" />
+          <entry key="go" value="186" />
+          <entry key="java" value="157738" />
           <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="177" />
-          <entry key="JAVA" value="156631" />
+          <entry key="Go" value="186" />
+          <entry key="JAVA" value="157738" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="VTL" value="70" />
           <entry key="XML" value="10" />
@@ -128,38 +84,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution513.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution508.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/acm/niuke/FullSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="355" column="11" selection-start-line="355" selection-start-column="11" selection-end-line="355" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/ReverseListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/FullSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="514">
+              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -169,8 +113,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="Interface" />
+        <option value="Go File" />
         <option value="Class" />
       </list>
     </option>
@@ -202,11 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/August/InterC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/August/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/August/Niuke.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/tencent/ReverseString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/tencent/Reverse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/tencent/LRUCache.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/tencent/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/niuke/Solution22.java" />
@@ -253,6 +192,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution543.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution506.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution508.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Ma.go" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution509.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution513.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ydh/acm/niuke/fullSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ydh/acm/niuke/FullSort.java" />
       </list>
     </option>
   </component>
@@ -269,8 +213,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2007" />
-    <option name="y" value="208" />
+    <option name="y" value="23" />
     <option name="width" value="1378" />
     <option name="height" value="834" />
   </component>
@@ -391,7 +334,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ydh" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="acm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -401,8 +344,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ydh" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="September" type="462c0819:PsiDirectoryNode" />
+              <item name="acm" type="462c0819:PsiDirectoryNode" />
+              <item name="niuke" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -452,7 +395,7 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567589201520" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567653138832" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
@@ -480,22 +423,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution508">
+  <component name="RunManager" selected="Application.Solution513">
     <configuration name="FullSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ydh.leetcode.September.FullSort" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ydh.leetcode.September.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ydh.leetcode.September.ReverseListNode" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -533,6 +463,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution513" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ydh.leetcode.September.Solution513" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ydh.leetcode.September.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution543" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ydh.leetcode.September.Solution543" />
       <module name="leetcode" />
@@ -547,19 +490,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseListNode" />
       <item itemvalue="Application.FullSort" />
       <item itemvalue="Application.Solution543" />
       <item itemvalue="Application.Solution506" />
       <item itemvalue="Application.Solution508" />
+      <item itemvalue="Application.Solution513" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution513" />
         <item itemvalue="Application.Solution508" />
         <item itemvalue="Application.Solution506" />
         <item itemvalue="Application.Solution543" />
         <item itemvalue="Application.FullSort" />
-        <item itemvalue="Application.ReverseListNode" />
       </list>
     </recent_temporary>
   </component>
@@ -629,12 +572,12 @@
       <workItem from="1566435908586" duration="635000" />
       <workItem from="1566643879268" duration="21079000" />
       <workItem from="1567149098313" duration="16448000" />
-      <workItem from="1567408363883" duration="8236000" />
+      <workItem from="1567408363883" duration="12022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="484118000" />
+    <option name="totallyTimeSpent" value="487904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -646,7 +589,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2007" y="208" width="1378" height="834" extended-state="0" />
+    <frame x="0" y="23" width="1378" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24476048" />
@@ -718,35 +661,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/tencent/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/tencent/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/tencent/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-984">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/acm/data.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/tencent/Main6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/tencent/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1079,8 +993,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution508.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+        <state relative-caret-position="58">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/main/Hello.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Ma.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution509.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/leetcode/September/Solution513.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ydh/acm/niuke/FullSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
